@@ -9,7 +9,7 @@ I'm a passionate Student , interested in Tech.
 -   🌱 I’m currently learning ...
 -   👯 I’m looking to collaborate on ...
 -   💬 Ask me about ...
--   📫 How to reach me:mailto:ismaillabiade@proton.me
+-   📫 How to reach me: mailto:ismaillabiade@proton.me
 -   ⚡ Fun fact: ...
    
 
@@ -32,8 +32,6 @@ Or individual badges:
 
 ### ✨ My Projects
 
--   1 -  .
--   n-  Project n.
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IsMaiLLabiaDe)
