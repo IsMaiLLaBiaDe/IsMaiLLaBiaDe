@@ -18,7 +18,7 @@ I'm a passionate Student , interested in Tech.
 
 ### 🛠️ My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github)](https://skillicons.dev)
 
 Or individual badges:
 
